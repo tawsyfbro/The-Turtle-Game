@@ -7,8 +7,6 @@ Welcome to THE TURLE GAME! This guide will help you set up and run the game on y
 2. [Installation](#installation)
 3. [Running the Game](#running-the-game)
 4. [Gameplay Instructions](#gameplay-instructions)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
