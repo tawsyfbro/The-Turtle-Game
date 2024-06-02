@@ -26,18 +26,13 @@ To install the game, follow these steps:
     ```sh
     cd game-project
     ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Running the Game
 To run the game, execute the following command in your terminal:
 ```sh
 python main.py
 ```
 
-Gameplay Instructions
+## Gameplay Instructions
 
 Objective: Help the turtle cross the road!
 
