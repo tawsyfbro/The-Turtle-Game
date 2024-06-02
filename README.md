@@ -35,7 +35,7 @@ To install the game, follow these steps:
 To run the game, execute the following command in your terminal:
 ```sh
 python main.py
-
+```
 
 Gameplay Instructions
 
